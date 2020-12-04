@@ -2,7 +2,21 @@
 
 .description {
     text-align: center;
-    padding: 2rem 2rem;
+    padding: 1rem 1rem;
     margin: 100px 100px;
-    font: 24;
+    font-size: 1.5rem;
+}
+
+.quote {
+    /* background-color: rgb(255, 247, 2?47); */
+    color: rgb(68, 62, 58);
+    font-size: 1rem;
+    /* text-align: left; */
+    padding-top: 2.9rem;
+    width: 60%;
+}
+
+
+u {
+    color: darkslategrey;
 }
