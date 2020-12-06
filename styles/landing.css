@@ -1,0 +1,23 @@
+.landing {
+    height: 25rem;
+    padding: 5%;
+}
+
+.landing h1 {
+    padding-left: 2rem;
+    padding-top: 1.5rem;
+}
+
+.landing p {
+    padding-left: 5rem;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.landing button {
+    text-align: center;
+    background-color: orange;
+    color: chocolate;
+    size: 4rem;
+    margin-left: 5rem;
+}
